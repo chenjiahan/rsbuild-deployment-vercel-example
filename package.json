@@ -2,7 +2,6 @@
   "name": "rsbuild-deployment-examples",
   "private": true,
   "version": "1.0.0",
-  "packageManager": "pnpm@9.0.6",
   "scripts": {
     "dev": "rsbuild dev --open",
     "build": "rsbuild build",
